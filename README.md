@@ -22,3 +22,8 @@ Este é um projeto simples e divertido que permite aos usuários adicionarem nom
 1. Clone o repositório:
    ```bash
    git clone https://github.com/angelica-cyber/Amigo-Secreto.git
+
+## 🌐 GitHub Pages
+
+Acesse o projeto publicado aqui:  
+👉 [https://angelica-cyber.github.io/Amigo-Secreto](https://angelica-cyber.github.io/Amigo-Secreto)
